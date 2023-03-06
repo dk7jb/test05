@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="~P1JPEOB26:RecMQvy{)" x="0" y="0"><statement name="HANDLER"><block type="oledssd1306_init_display" id=",B;%C/GX!/:8aR`fyvJ6"><next><block type="oledssd1306_clear_display" id="-511V$oG|wWb1fQR4^i4"><next><block type="oledssd1306_write_number" id="2qf[H3;GD#:YRADn:p|_"><value name="n"><shadow type="math_number" id="D`|pTNO$B5O?Z7KvmwW|"><field name="NUM">100</field></shadow></value></block></next></block></next></block></statement></block><block type="device_forever" id="w^_]]8htJ?|l53e#n^#Y" x="88" y="343"><statement name="HANDLER"><block type="device_show_leds" id="cv0~ZWvTYU[JJL%+Iz`L"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # # # # # 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="w-H.s7/OGf)LlF8B@)-("><value name="pause"><shadow type="timePicker" id="!bcRN=uYM)TyS%|nAdb1"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="?YJs2BHZ1{(h9l)[mG=$"><field name="LEDS">`
+        # . # . . 
+        . # # . . 
+        . . # . . 
+        . . # # . 
+        . . # . #
+        `</field><next><block type="device_pause" id=";v2~d^E|G:ox$Sl^X$Sl"><value name="pause"><shadow type="timePicker" id="/_MPF$l@DN:kBr!,w}Yp"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></statement></block></xml>
